@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.80da08f3.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.c67f7470.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.c67f7470.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.4dfb8aaa.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.4dfb8aaa.js.map",
+    "static/js/2.e7172fe9.chunk.js": "/reactportfolio/static/js/2.e7172fe9.chunk.js",
+    "static/js/2.e7172fe9.chunk.js.map": "/reactportfolio/static/js/2.e7172fe9.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "precache-manifest.2fd109ab444706caa0fa3b93ca83326f.js": "/reactportfolio/precache-manifest.2fd109ab444706caa0fa3b93ca83326f.js",
+    "service-worker.js": "/reactportfolio/service-worker.js",
+    "static/css/main.80da08f3.chunk.css.map": "/reactportfolio/static/css/main.80da08f3.chunk.css.map",
+    "static/js/2.e7172fe9.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.e7172fe9.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/reactportfolio/static/media/Resume.d0261ed5.pdf",
+    "static/media/bandifi.PNG": "/reactportfolio/static/media/bandifi.108c527e.PNG",
+    "static/media/budget-tracker.png": "/reactportfolio/static/media/budget-tracker.4c8dd8c4.png",
+    "static/media/geometric1.jpg": "/reactportfolio/static/media/geometric1.d324cb96.jpg",
+    "static/media/geometric2.png": "/reactportfolio/static/media/geometric2.eba255e0.png",
+    "static/media/gray-hall.jpg": "/reactportfolio/static/media/gray-hall.f3fd2f4d.jpg",
+    "static/media/motivate-me.PNG": "/reactportfolio/static/media/motivate-me.10fcf728.PNG",
+    "static/media/note-taker.PNG": "/reactportfolio/static/media/note-taker.b2b42204.PNG",
+    "static/media/pool.jpg": "/reactportfolio/static/media/pool.fd3e4dbf.jpg",
+    "static/media/quaranstream.PNG": "/reactportfolio/static/media/quaranstream.705c604d.PNG",
+    "static/media/tyler.jpg": "/reactportfolio/static/media/tyler.33a1e93c.jpg",
+    "static/media/workout-tracker.png": "/reactportfolio/static/media/workout-tracker.bd0fc094.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dfb8aaa.js",
+    "static/js/2.e7172fe9.chunk.js",
+    "static/css/main.80da08f3.chunk.css",
+    "static/js/main.c67f7470.chunk.js"
+  ]
+}
