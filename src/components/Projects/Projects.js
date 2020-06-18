@@ -20,9 +20,9 @@ function Projects() {
         projectName="Note Taker"
       />
       <ProjectCard
-        link="https://cas81695.github.io/Weather-Dashboard/"
+        link="http://pacific-wave-23407.herokuapp.com/"
         image={Motivate}
-        projectName="Weather Dashboard"
+        projectName="Motivate"
       />
       </div>
 
